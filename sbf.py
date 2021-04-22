@@ -24,7 +24,7 @@ else:
         O = ''
         R = ''
 
-def banner()
+def banner():
     os.system('echo -e "   _____            __\n  / __(_)_ _  ___  / /__   │ Multi Brute Force Facebook\n _\ \/ /  ^ \/ _ \/ / -_)  │ Coded By : Dapunta ID\n/___/_/_/_/_/ .__/_/\__/   │ Facebook : Dapunta Khurayra X\n           /_/ Brute Force │ Github   : Github.com/Dapunta\n" | lolcat')
            
 host="https://mbasic.facebook.com"
