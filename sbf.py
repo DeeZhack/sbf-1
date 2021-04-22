@@ -266,7 +266,7 @@ def publik():
 			ys.write(a['id']+"<=>"+a['name']+'\n')
 		ys.close()
 		print("[•] Total ID       : %s"%(len(id)))
-                print("\n   [!] Copy The Output")
+                print("\n[!] Copy The Output")
 		print("[•] Output         : %s"%qq)
 		raw_input("\n[ Back ]")
 		menu()	
