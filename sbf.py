@@ -670,7 +670,7 @@ def user1():
             raw_input('\n[ Enter ]')
             os.system('am start https://wa.me/6282245780524?text=Please%20Confirm%20My%20ID%20' + j + ' >/dev/null')
             os.sys.exit()
-    except requests.exceptions.ConnectionError:%20
+    except requests.exceptions.ConnectionError:
         print('[!] No Connection')
         exit()
     except KeyboardInterrupt:
