@@ -12,17 +12,16 @@
 [✯] Fast Crack  
 [✯] Crack Default  
 [✯] Crack Manual  
+[✯] Crack Methode Mbasic  
 [✯] Crack Methode Api  
-[✯] Crack Default 4 Password  
+[✯] Crack Default 3 Password  
 - name  
 - name123  
-- name1234  
 - name12345  
 ## ⇨  Install Script On Termux
 $ pkg update && upgrade  
 $ pkg install python2  
-$ pkg install git  
-$ pip2 install lolcat  
+$ pkg install git   
 $ pip2 install bs4  
 $ pip2 install requests  
 $ pip2 install mechanize  
